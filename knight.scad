@@ -3,7 +3,7 @@ use <piece_base.scad>;
 
 knight_height = pawn_height*1.5;
 head_width = piece_diam;
-head_rotate = 70;
+head_rotate = 60;
 
 module knight(){
 	union(){
